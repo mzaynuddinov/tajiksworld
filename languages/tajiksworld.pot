@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TajiksWorld 1.0.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: tajiksworld\n"
+
+msgid "%d comment"
+msgstr ""
+
+msgid "%d min read"
+msgstr ""
+
+msgid "%d result"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "About the newsroom"
+msgstr ""
+
+msgid "Accent"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active subscribers: %d"
+msgstr ""
+
+msgid "Add %s"
+msgstr ""
+
+msgid "Add advertisement"
+msgstr ""
+
+msgid "Add news"
+msgstr ""
+
+msgid "Additional"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Advertisement"
+msgstr ""
+
+msgid "Advertisement Manager"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Article text size"
+msgstr ""
+
+msgid "Attachment ID from the media library. Child categories are created with the Parent dropdown above."
+msgstr ""
+
+msgid "Audio URL"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author details appear on an article or when a user ID is set."
+msgstr ""
+
+msgid "Authors"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Body font"
+msgstr ""
+
+msgid "Body size (px)"
+msgstr ""
+
+msgid "Breadcrumbs"
+msgstr ""
+
+msgid "Breaking"
+msgstr ""
+
+msgid "Breaking News"
+msgstr ""
+
+msgid "Builder canvas"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Choose image"
+msgstr ""
+
+msgid "Choose logo"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close search"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color mode"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Contact email"
+msgstr ""
+
+msgid "Copy link"
+msgstr ""
+
+msgid "Copyright text"
+msgstr ""
+
+msgid "Creates original sample categories and stories so the homepage can be reviewed. You can delete them like any other WordPress content."
+msgstr ""
+
+msgid "Custom CSS"
+msgstr ""
+
+msgid "Custom JavaScript"
+msgstr ""
+
+msgid "Custom code and tracking scripts are stored only by administrators allowed to post unfiltered HTML."
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Dark background"
+msgstr ""
+
+msgid "Dark card"
+msgstr ""
+
+msgid "Dark primary"
+msgstr ""
+
+msgid "Dark text"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date format"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Default interface language"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this section?"
+msgstr ""
+
+msgid "Destination URL"
+msgstr ""
+
+msgid "Developer credit"
+msgstr ""
+
+msgid "Download CSV"
+msgstr ""
+
+msgid "Download export JSON"
+msgstr ""
+
+msgid "Download the report"
+msgstr ""
+
+msgid "Draft saved."
+msgstr ""
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Drag blocks, reorder sections, then save a draft or publish. The preview uses the real theme."
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit %s"
+msgstr ""
+
+msgid "Edit advertisement"
+msgstr ""
+
+msgid "Edit the homepage"
+msgstr ""
+
+msgid "Edit with the visual builder"
+msgstr ""
+
+msgid "Editor's choice"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Enter a valid email address."
+msgstr ""
+
+msgid "Favicon / site icon ID"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Featured News"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Footer Builder"
+msgstr ""
+
+msgid "Footer column %d"
+msgstr ""
+
+msgid "Footer description"
+msgstr ""
+
+msgid "Footer logo ID"
+msgstr ""
+
+msgid "Footer menu"
+msgstr ""
+
+msgid "Footer scripts"
+msgstr ""
+
+msgid "Force RTL layout"
+msgstr ""
+
+msgid "Galleries"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Gallery image IDs (comma separated)"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Global design"
+msgstr ""
+
+msgid "Google Analytics ID"
+msgstr ""
+
+msgid "Guest"
+msgstr ""
+
+msgid "Guest role"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "HTTPS"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Header Builder"
+msgstr ""
+
+msgid "Header background"
+msgstr ""
+
+msgid "Header scripts"
+msgstr ""
+
+msgid "Header text"
+msgstr ""
+
+msgid "Heading font"
+msgstr ""
+
+msgid "Heading weight"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Image ID"
+msgstr ""
+
+msgid "Import / Export"
+msgstr ""
+
+msgid "Import JSON"
+msgstr ""
+
+msgid "Import file is not valid JSON."
+msgstr ""
+
+msgid "Import finished."
+msgstr ""
+
+msgid "Import sample content"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Interview"
+msgstr ""
+
+msgid "Interviews"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Latest news"
+msgstr ""
+
+msgid "Layout imported."
+msgstr ""
+
+msgid "Layout payload is missing."
+msgstr ""
+
+msgid "Leave a comment"
+msgstr ""
+
+msgid "Let visitors toggle dark mode"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Line height"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Logo attachment ID"
+msgstr ""
+
+msgid "Mark"
+msgstr ""
+
+msgid "Match system"
+msgstr ""
+
+msgid "Memory limit"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message sent. Thank you."
+msgstr ""
+
+msgid "Meta Pixel ID"
+msgstr ""
+
+msgid "Missing"
+msgstr ""
+
+msgid "More stories"
+msgstr ""
+
+msgid "Most read"
+msgstr ""
+
+msgid "MySQL"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "News sidebar"
+msgstr ""
+
+msgid "News will appear here soon."
+msgstr ""
+
+msgid "NewsArticle JSON-LD is printed on news stories. Canonical URLs come from WordPress core."
+msgstr ""
+
+msgid "Newsletter"
+msgstr ""
+
+msgid "Newsletter table"
+msgstr ""
+
+msgid "Newsroom"
+msgstr ""
+
+msgid "Newsroom flags"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No SEO plugin detected. TajiksWorld prints a meta description, Open Graph, and Twitter cards, and steps aside automatically if Yoast or Rank Math is activated."
+msgstr ""
+
+msgid "No categories yet."
+msgstr ""
+
+msgid "No file was uploaded."
+msgstr ""
+
+msgid "No stories in this section yet."
+msgstr ""
+
+msgid "No stories yet."
+msgstr ""
+
+msgid "Not active"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Nothing is selected."
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Open TajiksWorld"
+msgstr ""
+
+msgid "Open the visual builder"
+msgstr ""
+
+msgid "Opens the page canvas. Publishing a layout replaces the page content on the front end."
+msgstr ""
+
+msgid "PDF URL"
+msgstr ""
+
+msgid "PHP"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Per-story SEO title and description are edited in the TajiksWorld details box on each article."
+msgstr ""
+
+msgid "Permalink structure"
+msgstr ""
+
+msgid "Permalinks"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Placement"
+msgstr ""
+
+msgid "Plain"
+msgstr ""
+
+msgid "Please complete every field with a valid email and a longer message."
+msgstr ""
+
+msgid "Podcast"
+msgstr ""
+
+msgid "Podcasts"
+msgstr ""
+
+msgid "Polylang"
+msgstr ""
+
+msgid "Popular"
+msgstr ""
+
+msgid "Present"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Primary menu"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Public content types are included in the WordPress core XML sitemap."
+msgstr ""
+
+msgid "Published news"
+msgstr ""
+
+msgid "Published news: %d"
+msgstr ""
+
+msgid "Published."
+msgstr ""
+
+msgid "Reading settings"
+msgstr ""
+
+msgid "Recent activity"
+msgstr ""
+
+msgid "Related news"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset a layout"
+msgstr ""
+
+msgid "Restore default layout"
+msgstr ""
+
+msgid "Results for “%s”"
+msgstr ""
+
+msgid "Retina logo attachment ID"
+msgstr ""
+
+msgid "Reusable section"
+msgstr ""
+
+msgid "SEO Settings"
+msgstr ""
+
+msgid "SEO description"
+msgstr ""
+
+msgid "SEO plugin"
+msgstr ""
+
+msgid "SEO title"
+msgstr ""
+
+msgid "Sample Content"
+msgstr ""
+
+msgid "Sample content is ready."
+msgstr ""
+
+msgid "Save advertisement"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "Saved."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search icon"
+msgstr ""
+
+msgid "Search the newsroom"
+msgstr ""
+
+msgid "Secondary"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Section payload is missing."
+msgstr ""
+
+msgid "Sections"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Show RSS"
+msgstr ""
+
+msgid "Show developer credit"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Social links"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Special Report"
+msgstr ""
+
+msgid "Special Reports"
+msgstr ""
+
+msgid "Special report"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Sticky header"
+msgstr ""
+
+msgid "Stories"
+msgstr ""
+
+msgid "Story"
+msgstr ""
+
+msgid "Subscribers"
+msgstr ""
+
+msgid "Subscription could not be completed."
+msgstr ""
+
+msgid "System Status"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "TajiksWorld"
+msgstr ""
+
+msgid "TajiksWorld Settings"
+msgstr ""
+
+msgid "TajiksWorld builder"
+msgstr ""
+
+msgid "TajiksWorld details"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "The form expired. Please try again."
+msgstr ""
+
+msgid "The message could not be sent. Try again later."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "Theme stylesheet"
+msgstr ""
+
+msgid "This file is not a TajiksWorld export."
+msgstr ""
+
+msgid "This is original sample copy. Replace it with a real story when the newsroom is ready."
+msgstr ""
+
+msgid "This layout is empty."
+msgstr ""
+
+msgid "This page is not in the newsroom."
+msgstr ""
+
+msgid "This unsubscribe link is not valid."
+msgstr ""
+
+msgid "Time format"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Toggle color mode"
+msgstr ""
+
+msgid "Too many attempts. Please try again later."
+msgstr ""
+
+msgid "Too many messages. Please wait and try again."
+msgstr ""
+
+msgid "Top bar"
+msgstr ""
+
+msgid "Top bar menu"
+msgstr ""
+
+msgid "Top bar text"
+msgstr ""
+
+msgid "Total views"
+msgstr ""
+
+msgid "Transparent header on the homepage"
+msgstr ""
+
+msgid "Trending"
+msgstr ""
+
+msgid "Trending News"
+msgstr ""
+
+msgid "Try a search, or continue with the latest stories."
+msgstr ""
+
+msgid "Typography"
+msgstr ""
+
+msgid "Unknown flag."
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Uploads writable"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video URL"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Visual Builder"
+msgstr ""
+
+msgid "WPML"
+msgstr ""
+
+msgid "Website description"
+msgstr ""
+
+msgid "Website title"
+msgstr ""
+
+msgid "WordPress"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yoast SEO or Rank Math is active, so TajiksWorld is not printing its own description, Open Graph, or Twitter tags."
+msgstr ""
+
+msgid "You are subscribed. Thank you."
+msgstr ""
+
+msgid "You cannot change settings."
+msgstr ""
+
+msgid "You cannot edit this story."
+msgstr ""
+
+msgid "You cannot import sample content."
+msgstr ""
+
+msgid "You cannot import settings."
+msgstr ""
+
+msgid "You cannot manage advertisements."
+msgstr ""
+
+msgid "You cannot use the builder."
+msgstr ""
+
+msgid "You cannot view subscribers."
+msgstr ""
+
+msgid "You cannot view this screen."
+msgstr ""
+
+msgid "You have been unsubscribed."
+msgstr ""
+
+msgid "views"
+msgstr ""
+
+msgid "you@example.com"
+msgstr ""
+

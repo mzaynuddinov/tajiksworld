@@ -1,0 +1,879 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TajiksWorld 1.0.0\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Domain: tajiksworld\n"
+
+msgid "%d comment"
+msgstr "%d комментарий"
+
+msgid "%d min read"
+msgstr "%d мин чтения"
+
+msgid "%d result"
+msgstr "%d результат"
+
+msgid "About"
+msgstr "О нас"
+
+msgid "About the newsroom"
+msgstr "О редакции"
+
+msgid "Accent"
+msgstr "Акцент"
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Active subscribers: %d"
+msgstr "Активные подписчики: %d"
+
+msgid "Add %s"
+msgstr "Добавить %s"
+
+msgid "Add advertisement"
+msgstr "Добавить объявление"
+
+msgid "Add news"
+msgstr "Добавить новость"
+
+msgid "Additional"
+msgstr "Дополнительно"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Advertisement"
+msgstr "Объявление"
+
+msgid "Advertisement Manager"
+msgstr "Менеджер объявлений"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Article text size"
+msgstr "Размер текста статьи"
+
+msgid "Attachment ID from the media library. Child categories are created with the Parent dropdown above."
+msgstr "ID вложения из медиатеки. Дочерние рубрики создаются списком «Родительская» выше."
+
+msgid "Audio URL"
+msgstr "URL аудио"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Author details appear on an article or when a user ID is set."
+msgstr "Сведения об авторе появляются в статье или если указан ID пользователя."
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Body font"
+msgstr "Шрифт текста"
+
+msgid "Body size (px)"
+msgstr "Размер текста (px)"
+
+msgid "Breadcrumbs"
+msgstr "Навигационная цепочка"
+
+msgid "Breaking"
+msgstr "Срочно"
+
+msgid "Breaking News"
+msgstr "Срочные новости"
+
+msgid "Builder canvas"
+msgstr "Холст конструктора"
+
+msgid "Categories"
+msgstr "Рубрики"
+
+msgid "Choose image"
+msgstr "Выбрать изображение"
+
+msgid "Choose logo"
+msgstr "Выбрать логотип"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close search"
+msgstr "Закрыть поиск"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color mode"
+msgstr "Цветовой режим"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Contact"
+msgstr "Контакты"
+
+msgid "Contact email"
+msgstr "Контактная почта"
+
+msgid "Copy link"
+msgstr "Копировать ссылку"
+
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+msgid "Creates original sample categories and stories so the homepage can be reviewed. You can delete them like any other WordPress content."
+msgstr "Создаёт оригинальные примерные рубрики и материалы, чтобы проверить главную. Их можно удалить как любой контент WordPress."
+
+msgid "Custom CSS"
+msgstr "Свой CSS"
+
+msgid "Custom JavaScript"
+msgstr "Свой JavaScript"
+
+msgid "Custom code and tracking scripts are stored only by administrators allowed to post unfiltered HTML."
+msgstr "Пользовательский код и скрипты учёта сохраняют только администраторы с правом unfiltered HTML."
+
+msgid "Dark"
+msgstr "Тёмная"
+
+msgid "Dark background"
+msgstr "Тёмный фон"
+
+msgid "Dark card"
+msgstr "Тёмная карточка"
+
+msgid "Dark primary"
+msgstr "Тёмный основной"
+
+msgid "Dark text"
+msgstr "Тёмный текст"
+
+msgid "Dashboard"
+msgstr "Обзор"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Default interface language"
+msgstr "Язык интерфейса по умолчанию"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete this section?"
+msgstr "Удалить этот раздел?"
+
+msgid "Destination URL"
+msgstr "URL назначения"
+
+msgid "Developer credit"
+msgstr "Подпись разработчика"
+
+msgid "Download CSV"
+msgstr "Скачать CSV"
+
+msgid "Download export JSON"
+msgstr "Скачать JSON экспорта"
+
+msgid "Download the report"
+msgstr "Скачать отчёт"
+
+msgid "Draft saved."
+msgstr "Черновик сохранён."
+
+msgid "Drafts"
+msgstr "Черновики"
+
+msgid "Drag blocks, reorder sections, then save a draft or publish. The preview uses the real theme."
+msgstr "Перетаскивайте блоки, меняйте порядок разделов, затем сохраните черновик или опубликуйте. Предпросмотр использует настоящую тему."
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+msgid "Edit advertisement"
+msgstr "Изменить объявление"
+
+msgid "Edit the homepage"
+msgstr "Править главную"
+
+msgid "Edit with the visual builder"
+msgstr "Править в визуальном конструкторе"
+
+msgid "Editor's choice"
+msgstr "Выбор редакции"
+
+msgid "Email"
+msgstr "Эл. почта"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "Enter a valid email address."
+msgstr "Введите корректный адрес почты."
+
+msgid "Favicon / site icon ID"
+msgstr "ID значка сайта"
+
+msgid "Featured"
+msgstr "Избранное"
+
+msgid "Featured News"
+msgstr "Избранные новости"
+
+msgid "Flags"
+msgstr "Пометки"
+
+msgid "Footer"
+msgstr "Подвал"
+
+msgid "Footer Builder"
+msgstr "Конструктор подвала"
+
+msgid "Footer column %d"
+msgstr "Колонка подвала %d"
+
+msgid "Footer description"
+msgstr "Описание в подвале"
+
+msgid "Footer logo ID"
+msgstr "ID логотипа подвала"
+
+msgid "Footer menu"
+msgstr "Меню подвала"
+
+msgid "Footer scripts"
+msgstr "Скрипты подвала"
+
+msgid "Force RTL layout"
+msgstr "Принудительная вёрстка RTL"
+
+msgid "Galleries"
+msgstr "Галереи"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Gallery image IDs (comma separated)"
+msgstr "ID изображений галереи (через запятую)"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Global design"
+msgstr "Глобальное оформление"
+
+msgid "Google Analytics ID"
+msgstr "ID Google Analytics"
+
+msgid "Guest"
+msgstr "Гость"
+
+msgid "Guest role"
+msgstr "Роль гостя"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Header"
+msgstr "Шапка"
+
+msgid "Header Builder"
+msgstr "Конструктор шапки"
+
+msgid "Header background"
+msgstr "Фон шапки"
+
+msgid "Header scripts"
+msgstr "Скрипты шапки"
+
+msgid "Header text"
+msgstr "Текст шапки"
+
+msgid "Heading font"
+msgstr "Шрифт заголовков"
+
+msgid "Heading weight"
+msgstr "Насыщенность заголовков"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Image ID"
+msgstr "ID изображения"
+
+msgid "Import / Export"
+msgstr "Импорт / экспорт"
+
+msgid "Import JSON"
+msgstr "Импорт JSON"
+
+msgid "Import file is not valid JSON."
+msgstr "Файл импорта не является корректным JSON."
+
+msgid "Import finished."
+msgstr "Импорт завершён."
+
+msgid "Import sample content"
+msgstr "Импортировать примерный контент"
+
+msgid "Installed"
+msgstr "Установлено"
+
+msgid "Interview"
+msgstr "Интервью"
+
+msgid "Interviews"
+msgstr "Интервью"
+
+msgid "Languages"
+msgstr "Языки"
+
+msgid "Latest news"
+msgstr "Последние новости"
+
+msgid "Layout imported."
+msgstr "Макет импортирован."
+
+msgid "Layout payload is missing."
+msgstr "Данные макета отсутствуют."
+
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+msgid "Let visitors toggle dark mode"
+msgstr "Разрешить посетителям переключать тёмную тему"
+
+msgid "Light"
+msgstr "Светлая"
+
+msgid "Line height"
+msgstr "Интерлиньяж"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Logo attachment ID"
+msgstr "ID вложения логотипа"
+
+msgid "Mark"
+msgstr "Пометка"
+
+msgid "Match system"
+msgstr "Как в системе"
+
+msgid "Memory limit"
+msgstr "Лимит памяти"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Message sent. Thank you."
+msgstr "Сообщение отправлено. Спасибо."
+
+msgid "Meta Pixel ID"
+msgstr "ID Meta Pixel"
+
+msgid "Missing"
+msgstr "Отсутствует"
+
+msgid "More stories"
+msgstr "Ещё материалы"
+
+msgid "Most read"
+msgstr "Самое читаемое"
+
+msgid "MySQL"
+msgstr "MySQL"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "News sidebar"
+msgstr "Боковая колонка новостей"
+
+msgid "News will appear here soon."
+msgstr "Новости скоро появятся здесь."
+
+msgid "NewsArticle JSON-LD is printed on news stories. Canonical URLs come from WordPress core."
+msgstr "JSON-LD NewsArticle выводится у новостей. Канонические URL даёт ядро WordPress."
+
+msgid "Newsletter"
+msgstr "Рассылка"
+
+msgid "Newsletter table"
+msgstr "Таблица рассылки"
+
+msgid "Newsroom"
+msgstr "Редакция"
+
+msgid "Newsroom flags"
+msgstr "Пометки редакции"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No SEO plugin detected. TajiksWorld prints a meta description, Open Graph, and Twitter cards, and steps aside automatically if Yoast or Rank Math is activated."
+msgstr "SEO-плагин не найден. TajiksWorld выводит meta description, Open Graph и Twitter Cards и автоматически отступает, если включены Yoast или Rank Math."
+
+msgid "No categories yet."
+msgstr "Рубрик пока нет."
+
+msgid "No file was uploaded."
+msgstr "Файл не загружен."
+
+msgid "No stories in this section yet."
+msgstr "В этом разделе пока нет материалов."
+
+msgid "No stories yet."
+msgstr "Материалов пока нет."
+
+msgid "Not active"
+msgstr "Не активно"
+
+msgid "Not found"
+msgstr "Не найдено"
+
+msgid "Nothing is selected."
+msgstr "Ничего не выбрано."
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "On"
+msgstr "Вкл."
+
+msgid "Open TajiksWorld"
+msgstr "Открыть TajiksWorld"
+
+msgid "Open the visual builder"
+msgstr "Открыть визуальный конструктор"
+
+msgid "Opens the page canvas. Publishing a layout replaces the page content on the front end."
+msgstr "Открывает холст страницы. Публикация макета заменяет содержимое страницы на сайте."
+
+msgid "PDF URL"
+msgstr "URL PDF"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Pending"
+msgstr "Ожидает"
+
+msgid "Per-story SEO title and description are edited in the TajiksWorld details box on each article."
+msgstr "SEO-заголовок и описание материала правятся в блоке сведений TajiksWorld у каждой статьи."
+
+msgid "Permalink structure"
+msgstr "Структура постоянных ссылок"
+
+msgid "Permalinks"
+msgstr "Постоянные ссылки"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Placement"
+msgstr "Размещение"
+
+msgid "Plain"
+msgstr "Обычный"
+
+msgid "Please complete every field with a valid email and a longer message."
+msgstr "Заполните все поля: нужна корректная почта и более длинное сообщение."
+
+msgid "Podcast"
+msgstr "Подкаст"
+
+msgid "Podcasts"
+msgstr "Подкасты"
+
+msgid "Polylang"
+msgstr "Polylang"
+
+msgid "Popular"
+msgstr "Популярное"
+
+msgid "Present"
+msgstr "Есть"
+
+msgid "Previous"
+msgstr "Назад"
+
+msgid "Primary"
+msgstr "Основной"
+
+msgid "Primary menu"
+msgstr "Главное меню"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Public content types are included in the WordPress core XML sitemap."
+msgstr "Публичные типы записей входят в XML-карту ядра WordPress."
+
+msgid "Published news"
+msgstr "Опубликованные новости"
+
+msgid "Published news: %d"
+msgstr "Опубликованные новости: %d"
+
+msgid "Published."
+msgstr "Опубликовано."
+
+msgid "Reading settings"
+msgstr "Настройки чтения"
+
+msgid "Recent activity"
+msgstr "Недавняя активность"
+
+msgid "Related news"
+msgstr "Похожие новости"
+
+msgid "Remove"
+msgstr "Убрать"
+
+msgid "Reset a layout"
+msgstr "Сбросить макет"
+
+msgid "Restore default layout"
+msgstr "Вернуть макет по умолчанию"
+
+msgid "Results for “%s”"
+msgstr "Результаты по запросу «%s»"
+
+msgid "Retina logo attachment ID"
+msgstr "ID вложения Retina-логотипа"
+
+msgid "Reusable section"
+msgstr "Повторно используемый раздел"
+
+msgid "SEO Settings"
+msgstr "Настройки SEO"
+
+msgid "SEO description"
+msgstr "SEO-описание"
+
+msgid "SEO plugin"
+msgstr "SEO-плагин"
+
+msgid "SEO title"
+msgstr "SEO-заголовок"
+
+msgid "Sample Content"
+msgstr "Примерный контент"
+
+msgid "Sample content is ready."
+msgstr "Примерный контент готов."
+
+msgid "Save advertisement"
+msgstr "Сохранить объявление"
+
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+msgid "Saved."
+msgstr "Сохранено."
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search icon"
+msgstr "Значок поиска"
+
+msgid "Search the newsroom"
+msgstr "Искать в редакции"
+
+msgid "Secondary"
+msgstr "Дополнительный"
+
+msgid "Section"
+msgstr "Раздел"
+
+msgid "Section payload is missing."
+msgstr "Данные раздела отсутствуют."
+
+msgid "Sections"
+msgstr "Разделы"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Show RSS"
+msgstr "Показывать RSS"
+
+msgid "Show developer credit"
+msgstr "Показывать подпись разработчика"
+
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+msgid "Social links"
+msgstr "Соцсети"
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Special Report"
+msgstr "Специальный репортаж"
+
+msgid "Special Reports"
+msgstr "Специальные репортажи"
+
+msgid "Special report"
+msgstr "Специальный репортаж"
+
+msgid "Start"
+msgstr "Начало"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Sticky header"
+msgstr "Закреплённая шапка"
+
+msgid "Stories"
+msgstr "Материалы"
+
+msgid "Story"
+msgstr "Материал"
+
+msgid "Subscribers"
+msgstr "Подписчики"
+
+msgid "Subscription could not be completed."
+msgstr "Подписку не удалось оформить."
+
+msgid "System Status"
+msgstr "Состояние системы"
+
+msgid "Tags"
+msgstr "Метки"
+
+msgid "TajiksWorld"
+msgstr "TajiksWorld"
+
+msgid "TajiksWorld Settings"
+msgstr "Настройки TajiksWorld"
+
+msgid "TajiksWorld builder"
+msgstr "Конструктор TajiksWorld"
+
+msgid "TajiksWorld details"
+msgstr "Сведения TajiksWorld"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "The form expired. Please try again."
+msgstr "Срок формы истёк. Попробуйте снова."
+
+msgid "The message could not be sent. Try again later."
+msgstr "Сообщение не отправлено. Попробуйте позже."
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+msgid "Theme stylesheet"
+msgstr "Таблица стилей темы"
+
+msgid "This file is not a TajiksWorld export."
+msgstr "Этот файл не является экспортом TajiksWorld."
+
+msgid "This is original sample copy. Replace it with a real story when the newsroom is ready."
+msgstr "Это оригинальный примерный текст. Замените его настоящей новостью, когда редакция будет готова."
+
+msgid "This layout is empty."
+msgstr "Этот макет пуст."
+
+msgid "This page is not in the newsroom."
+msgstr "Этой страницы нет в редакции."
+
+msgid "This unsubscribe link is not valid."
+msgstr "Эта ссылка отписки недействительна."
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Toggle color mode"
+msgstr "Переключить цветовую тему"
+
+msgid "Too many attempts. Please try again later."
+msgstr "Слишком много попыток. Попробуйте позже."
+
+msgid "Too many messages. Please wait and try again."
+msgstr "Слишком много сообщений. Подождите и попробуйте снова."
+
+msgid "Top bar"
+msgstr "Верхняя полоса"
+
+msgid "Top bar menu"
+msgstr "Меню верхней полосы"
+
+msgid "Top bar text"
+msgstr "Текст верхней полосы"
+
+msgid "Total views"
+msgstr "Всего просмотров"
+
+msgid "Transparent header on the homepage"
+msgstr "Прозрачная шапка на главной"
+
+msgid "Trending"
+msgstr "В тренде"
+
+msgid "Trending News"
+msgstr "Новости в тренде"
+
+msgid "Try a search, or continue with the latest stories."
+msgstr "Попробуйте поиск или перейдите к последним материалам."
+
+msgid "Typography"
+msgstr "Типографика"
+
+msgid "Unknown flag."
+msgstr "Неизвестная пометка."
+
+msgid "Updated"
+msgstr "Обновлено"
+
+msgid "Uploads writable"
+msgstr "Каталог загрузок доступен для записи"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video URL"
+msgstr "URL видео"
+
+msgid "Videos"
+msgstr "Видео"
+
+msgid "Views"
+msgstr "Просмотры"
+
+msgid "Visual Builder"
+msgstr "Визуальный конструктор"
+
+msgid "WPML"
+msgstr "WPML"
+
+msgid "Website description"
+msgstr "Описание сайта"
+
+msgid "Website title"
+msgstr "Название сайта"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yoast SEO or Rank Math is active, so TajiksWorld is not printing its own description, Open Graph, or Twitter tags."
+msgstr "Yoast SEO или Rank Math активны, поэтому TajiksWorld не выводит собственное описание, Open Graph и Twitter-метки."
+
+msgid "You are subscribed. Thank you."
+msgstr "Вы подписаны. Спасибо."
+
+msgid "You cannot change settings."
+msgstr "Вы не можете менять настройки."
+
+msgid "You cannot edit this story."
+msgstr "Вы не можете править этот материал."
+
+msgid "You cannot import sample content."
+msgstr "Вы не можете импортировать примерный контент."
+
+msgid "You cannot import settings."
+msgstr "Вы не можете импортировать настройки."
+
+msgid "You cannot manage advertisements."
+msgstr "Вы не можете управлять объявлениями."
+
+msgid "You cannot use the builder."
+msgstr "Вы не можете пользоваться конструктором."
+
+msgid "You cannot view subscribers."
+msgstr "Вы не можете просматривать подписчиков."
+
+msgid "You cannot view this screen."
+msgstr "Вы не можете открыть этот экран."
+
+msgid "You have been unsubscribed."
+msgstr "Вы отписаны."
+
+msgid "views"
+msgstr "просмотров"
+
+msgid "you@example.com"
+msgstr "you@example.com"
+
+msgid "%d min read"
+msgid_plural "%d min read"
+msgstr[0] "%d минута чтения"
+msgstr[1] "%d минуты чтения"
+msgstr[2] "%d минут чтения"
+
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d результат"
+msgstr[1] "%d результата"
+msgstr[2] "%d результатов"

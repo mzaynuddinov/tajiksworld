@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TajiksWorld 1.0.0\n"
+"Language: tg_TJ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: tajiksworld\n"
+
+msgid "%d comment"
+msgstr "%d шарҳ"
+
+msgid "%d min read"
+msgstr "%d дақиқа хондан"
+
+msgid "%d result"
+msgstr "%d натиҷа"
+
+msgid "About"
+msgstr "Дар бора"
+
+msgid "About the newsroom"
+msgstr "Дар бораи таҳририя"
+
+msgid "Accent"
+msgstr "Аксент"
+
+msgid "Active"
+msgstr "Фаъол"
+
+msgid "Active subscribers: %d"
+msgstr "Обунадорони фаъол: %d"
+
+msgid "Add %s"
+msgstr "Иловаи %s"
+
+msgid "Add advertisement"
+msgstr "Иловаи реклама"
+
+msgid "Add news"
+msgstr "Иловаи хабар"
+
+msgid "Additional"
+msgstr "Иловагӣ"
+
+msgid "Address"
+msgstr "Нишонӣ"
+
+msgid "Advertisement"
+msgstr "Реклама"
+
+msgid "Advertisement Manager"
+msgstr "Мудири реклама"
+
+msgid "All"
+msgstr "Ҳама"
+
+msgid "Article text size"
+msgstr "Андозаи матни матлаб"
+
+msgid "Attachment ID from the media library. Child categories are created with the Parent dropdown above."
+msgstr "ID-и замима аз китобхонаи расона. Бахшҳои фарзандӣ бо рӯйхати «Волидайн» дар боло сохта мешаванд."
+
+msgid "Audio URL"
+msgstr "Нишонии аудио"
+
+msgid "Author"
+msgstr "Муаллиф"
+
+msgid "Author details appear on an article or when a user ID is set."
+msgstr "Маълумоти муаллиф дар матлаб ё ҳангоми нишон додани ID-и корбар пайдо мешавад."
+
+msgid "Authors"
+msgstr "Муаллифон"
+
+msgid "Background"
+msgstr "Замина"
+
+msgid "Body font"
+msgstr "Ҳуруфи матн"
+
+msgid "Body size (px)"
+msgstr "Андозаи матн (px)"
+
+msgid "Breadcrumbs"
+msgstr "Роҳнамо"
+
+msgid "Breaking"
+msgstr "Фаврӣ"
+
+msgid "Breaking News"
+msgstr "Хабарҳои фаврӣ"
+
+msgid "Builder canvas"
+msgstr "Лавҳаи созанда"
+
+msgid "Categories"
+msgstr "Бахшҳо"
+
+msgid "Choose image"
+msgstr "Интихоби тасвир"
+
+msgid "Choose logo"
+msgstr "Интихоби нишон"
+
+msgid "Close"
+msgstr "Пӯшидан"
+
+msgid "Close search"
+msgstr "Пӯшидани ҷустуҷӯ"
+
+msgid "Color"
+msgstr "Ранг"
+
+msgid "Color mode"
+msgstr "Реҷаи ранг"
+
+msgid "Colors"
+msgstr "Рангҳо"
+
+msgid "Contact"
+msgstr "Тамос"
+
+msgid "Contact email"
+msgstr "Почтаи тамос"
+
+msgid "Copy link"
+msgstr "Нусхаи пайванд"
+
+msgid "Copyright text"
+msgstr "Матни ҳуқуқи муаллиф"
+
+msgid "Creates original sample categories and stories so the homepage can be reviewed. You can delete them like any other WordPress content."
+msgstr "Бахшҳо ва матлабҳои намунавии аслиро месозад, то саҳифаи асосӣ санҷида шавад. Онҳоро мисли ҳар мундариҷаи WordPress нест кардан мумкин аст."
+
+msgid "Custom CSS"
+msgstr "CSS-и худ"
+
+msgid "Custom JavaScript"
+msgstr "JavaScript-и худ"
+
+msgid "Custom code and tracking scripts are stored only by administrators allowed to post unfiltered HTML."
+msgstr "Рамзи худӣ ва скриптҳои пайгирӣ танҳо аз ҷониби маъмуроне нигоҳ дошта мешаванд, ки HTML-и филтрнашударо иҷозат доранд."
+
+msgid "Dark"
+msgstr "Торик"
+
+msgid "Dark background"
+msgstr "Заминаи торик"
+
+msgid "Dark card"
+msgstr "Корти торик"
+
+msgid "Dark primary"
+msgstr "Ранги асосии торик"
+
+msgid "Dark text"
+msgstr "Матни торик"
+
+msgid "Dashboard"
+msgstr "Лавҳа"
+
+msgid "Date"
+msgstr "Сана"
+
+msgid "Date format"
+msgstr "Қолаби сана"
+
+msgid "Debug"
+msgstr "Ислоҳ"
+
+msgid "Default interface language"
+msgstr "Забони пешфарзи интерфейс"
+
+msgid "Delete"
+msgstr "Нест кардан"
+
+msgid "Delete this section?"
+msgstr "Ин бахш нест карда шавад?"
+
+msgid "Destination URL"
+msgstr "Нишонии мақсад"
+
+msgid "Developer credit"
+msgstr "Имзои таҳиягар"
+
+msgid "Download CSV"
+msgstr "Боргирии CSV"
+
+msgid "Download export JSON"
+msgstr "Боргирии JSON-и содирот"
+
+msgid "Download the report"
+msgstr "Боргирии гузориш"
+
+msgid "Draft saved."
+msgstr "Сиёҳнавис захира шуд."
+
+msgid "Drafts"
+msgstr "Сиёҳнависҳо"
+
+msgid "Drag blocks, reorder sections, then save a draft or publish. The preview uses the real theme."
+msgstr "Блокҳоро кашед, бахшҳоро ҷобаҷо кунед, сипас сиёҳнависро захира кунед ё нашр намоед. Пешнамоиш мавзӯи воқеиро истифода мебарад."
+
+msgid "Edit"
+msgstr "Таҳрир"
+
+msgid "Edit %s"
+msgstr "Таҳрири %s"
+
+msgid "Edit advertisement"
+msgstr "Таҳрири реклама"
+
+msgid "Edit the homepage"
+msgstr "Таҳрири саҳифаи асосӣ"
+
+msgid "Edit with the visual builder"
+msgstr "Таҳрир бо созандаи визуалӣ"
+
+msgid "Editor's choice"
+msgstr "Интихоби муҳаррир"
+
+msgid "Email"
+msgstr "Почта"
+
+msgid "End"
+msgstr "Анҷом"
+
+msgid "Enter a valid email address."
+msgstr "Почтаи дурустро ворид кунед."
+
+msgid "Favicon / site icon ID"
+msgstr "ID-и нишонаи сомона"
+
+msgid "Featured"
+msgstr "Баргузида"
+
+msgid "Featured News"
+msgstr "Хабарҳои баргузида"
+
+msgid "Flags"
+msgstr "Байрақҳо"
+
+msgid "Footer"
+msgstr "Поён"
+
+msgid "Footer Builder"
+msgstr "Созандаи поён"
+
+msgid "Footer column %d"
+msgstr "Сутуни поён %d"
+
+msgid "Footer description"
+msgstr "Тавсифи поён"
+
+msgid "Footer logo ID"
+msgstr "ID-и нишони поён"
+
+msgid "Footer menu"
+msgstr "Менюи поён"
+
+msgid "Footer scripts"
+msgstr "Скриптҳои поён"
+
+msgid "Force RTL layout"
+msgstr "Тарҳи иҷбории RTL"
+
+msgid "Galleries"
+msgstr "Нигористонҳо"
+
+msgid "Gallery"
+msgstr "Нигористон"
+
+msgid "Gallery image IDs (comma separated)"
+msgstr "ID-ҳои тасвири нигористон (бо вергул)"
+
+msgid "General"
+msgstr "Умумӣ"
+
+msgid "Global design"
+msgstr "Тарҳи умумӣ"
+
+msgid "Google Analytics ID"
+msgstr "ID-и Google Analytics"
+
+msgid "Guest"
+msgstr "Меҳмон"
+
+msgid "Guest role"
+msgstr "Нақши меҳмон"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTPS"
+msgstr "HTTPS"
+
+msgid "Header"
+msgstr "Сарсаҳифа"
+
+msgid "Header Builder"
+msgstr "Созандаи сарсаҳифа"
+
+msgid "Header background"
+msgstr "Заминаи сарсаҳифа"
+
+msgid "Header scripts"
+msgstr "Скриптҳои сарсаҳифа"
+
+msgid "Header text"
+msgstr "Матни сарсаҳифа"
+
+msgid "Heading font"
+msgstr "Ҳуруфи сарлавҳа"
+
+msgid "Heading weight"
+msgstr "Ғафсии сарлавҳа"
+
+msgid "Home"
+msgstr "Асосӣ"
+
+msgid "Image ID"
+msgstr "ID-и тасвир"
+
+msgid "Import / Export"
+msgstr "Воридот / содирот"
+
+msgid "Import JSON"
+msgstr "Воридоти JSON"
+
+msgid "Import file is not valid JSON."
+msgstr "Файли воридот JSON-и дуруст нест."
+
+msgid "Import finished."
+msgstr "Воридот анҷом ёфт."
+
+msgid "Import sample content"
+msgstr "Воридоти мундариҷаи намуна"
+
+msgid "Installed"
+msgstr "Насб шудааст"
+
+msgid "Interview"
+msgstr "Мусоҳиба"
+
+msgid "Interviews"
+msgstr "Мусоҳибаҳо"
+
+msgid "Languages"
+msgstr "Забонҳо"
+
+msgid "Latest news"
+msgstr "Хабарҳои навтарин"
+
+msgid "Layout imported."
+msgstr "Тарҳ ворид шуд."
+
+msgid "Layout payload is missing."
+msgstr "Маълумоти тарҳ нест."
+
+msgid "Leave a comment"
+msgstr "Шарҳ гузоред"
+
+msgid "Let visitors toggle dark mode"
+msgstr "Ба хонандагон иваз кардани реҷаи торикро иҷозат диҳед"
+
+msgid "Light"
+msgstr "Равшан"
+
+msgid "Line height"
+msgstr "Баландии сатр"
+
+msgid "Link"
+msgstr "Пайванд"
+
+msgid "Logo attachment ID"
+msgstr "ID-и замимаи нишон"
+
+msgid "Mark"
+msgstr "Ишора"
+
+msgid "Match system"
+msgstr "Монанди низом"
+
+msgid "Memory limit"
+msgstr "Маҳдудияти хотира"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Message"
+msgstr "Паём"
+
+msgid "Message sent. Thank you."
+msgstr "Паём фиристода шуд. Ташаккур."
+
+msgid "Meta Pixel ID"
+msgstr "ID-и Meta Pixel"
+
+msgid "Missing"
+msgstr "Нест"
+
+msgid "More stories"
+msgstr "Матлабҳои дигар"
+
+msgid "Most read"
+msgstr "Бештар хондашуда"
+
+msgid "MySQL"
+msgstr "MySQL"
+
+msgid "Name"
+msgstr "Ном"
+
+msgid "News"
+msgstr "Хабарҳо"
+
+msgid "News sidebar"
+msgstr "Сутуни ҷонибии хабарҳо"
+
+msgid "News will appear here soon."
+msgstr "Хабарҳо ба зудӣ ин ҷо пайдо мешаванд."
+
+msgid "NewsArticle JSON-LD is printed on news stories. Canonical URLs come from WordPress core."
+msgstr "JSON-LD-и NewsArticle дар хабарҳо чоп мешавад. Нишониҳои каноникӣ аз ҳастаи WordPress меоянд."
+
+msgid "Newsletter"
+msgstr "Хабарнома"
+
+msgid "Newsletter table"
+msgstr "Ҷадвали хабарнома"
+
+msgid "Newsroom"
+msgstr "Таҳририя"
+
+msgid "Newsroom flags"
+msgstr "Байрақҳои таҳририя"
+
+msgid "Next"
+msgstr "Баъдӣ"
+
+msgid "No"
+msgstr "Не"
+
+msgid "No SEO plugin detected. TajiksWorld prints a meta description, Open Graph, and Twitter cards, and steps aside automatically if Yoast or Rank Math is activated."
+msgstr "Плагини SEO ёфт нашуд. TajiksWorld тавсифи meta, Open Graph ва Twitter Cards-ро чоп мекунад ва агар Yoast ё Rank Math фаъол шавад, худкор канор меравад."
+
+msgid "No categories yet."
+msgstr "Ҳоло бахш нест."
+
+msgid "No file was uploaded."
+msgstr "Файл бор нашуд."
+
+msgid "No stories in this section yet."
+msgstr "Дар ин бахш ҳоло матлаб нест."
+
+msgid "No stories yet."
+msgstr "Ҳоло матлаб нест."
+
+msgid "Not active"
+msgstr "Ғайрифаъол"
+
+msgid "Not found"
+msgstr "Ёфт нашуд"
+
+msgid "Nothing is selected."
+msgstr "Ҳеҷ чиз интихоб нашудааст."
+
+msgid "Off"
+msgstr "Хомӯш"
+
+msgid "On"
+msgstr "Фаъол"
+
+msgid "Open TajiksWorld"
+msgstr "Кушодани TajiksWorld"
+
+msgid "Open the visual builder"
+msgstr "Кушодани созандаи визуалӣ"
+
+msgid "Opens the page canvas. Publishing a layout replaces the page content on the front end."
+msgstr "Лавҳаи саҳифаро мекушояд. Нашри тарҳ мундариҷаи саҳифаро дар сомона иваз мекунад."
+
+msgid "PDF URL"
+msgstr "Нишонии PDF"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Pending"
+msgstr "Интизор"
+
+msgid "Per-story SEO title and description are edited in the TajiksWorld details box on each article."
+msgstr "Сарлавҳа ва тавсифи SEO-и ҳар матлаб дар қуттии тафсилоти TajiksWorld таҳрир мешавад."
+
+msgid "Permalink structure"
+msgstr "Сохтори пайвандҳои доимӣ"
+
+msgid "Permalinks"
+msgstr "Пайвандҳои доимӣ"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Placement"
+msgstr "Ҷойгирӣ"
+
+msgid "Plain"
+msgstr "Сода"
+
+msgid "Please complete every field with a valid email and a longer message."
+msgstr "Ҳамаи майдонҳоро пур кунед: почтаи дуруст ва паёми дарозтар лозим аст."
+
+msgid "Podcast"
+msgstr "Подкаст"
+
+msgid "Podcasts"
+msgstr "Подкастҳо"
+
+msgid "Polylang"
+msgstr "Polylang"
+
+msgid "Popular"
+msgstr "Маъмул"
+
+msgid "Present"
+msgstr "Ҳаст"
+
+msgid "Previous"
+msgstr "Қаблӣ"
+
+msgid "Primary"
+msgstr "Асосӣ"
+
+msgid "Primary menu"
+msgstr "Менюи асосӣ"
+
+msgid "Print"
+msgstr "Чоп"
+
+msgid "Public content types are included in the WordPress core XML sitemap."
+msgstr "Навъҳои оммавии мундариҷа ба харитаи XML-и ҳастаи WordPress дохил мешаванд."
+
+msgid "Published news"
+msgstr "Хабарҳои нашршуда"
+
+msgid "Published news: %d"
+msgstr "Хабарҳои нашршуда: %d"
+
+msgid "Published."
+msgstr "Нашр шуд."
+
+msgid "Reading settings"
+msgstr "Танзимоти хондан"
+
+msgid "Recent activity"
+msgstr "Фаъолияти охир"
+
+msgid "Related news"
+msgstr "Хабарҳои монанд"
+
+msgid "Remove"
+msgstr "Гирифтан"
+
+msgid "Reset a layout"
+msgstr "Аз нав кардани тарҳ"
+
+msgid "Restore default layout"
+msgstr "Барқарор кардани тарҳи пешфарз"
+
+msgid "Results for “%s”"
+msgstr "Натиҷаҳо барои «%s»"
+
+msgid "Retina logo attachment ID"
+msgstr "ID-и замимаи нишони Retina"
+
+msgid "Reusable section"
+msgstr "Бахши такроршаванда"
+
+msgid "SEO Settings"
+msgstr "Танзимоти SEO"
+
+msgid "SEO description"
+msgstr "Тавсифи SEO"
+
+msgid "SEO plugin"
+msgstr "Плагини SEO"
+
+msgid "SEO title"
+msgstr "Сарлавҳаи SEO"
+
+msgid "Sample Content"
+msgstr "Мундариҷаи намуна"
+
+msgid "Sample content is ready."
+msgstr "Мундариҷаи намуна омода аст."
+
+msgid "Save advertisement"
+msgstr "Захираи реклама"
+
+msgid "Save settings"
+msgstr "Захираи танзимот"
+
+msgid "Saved."
+msgstr "Захира шуд."
+
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+msgid "Search icon"
+msgstr "Нишонаи ҷустуҷӯ"
+
+msgid "Search the newsroom"
+msgstr "Ҷустуҷӯ дар таҳририя"
+
+msgid "Secondary"
+msgstr "Дуюм"
+
+msgid "Section"
+msgstr "Бахш"
+
+msgid "Section payload is missing."
+msgstr "Маълумоти бахш нест."
+
+msgid "Sections"
+msgstr "Бахшҳо"
+
+msgid "Select"
+msgstr "Интихоб"
+
+msgid "Send"
+msgstr "Фиристодан"
+
+msgid "Settings saved."
+msgstr "Танзимот захира шуд."
+
+msgid "Share"
+msgstr "Мубодила"
+
+msgid "Show RSS"
+msgstr "Нишон додани RSS"
+
+msgid "Show developer credit"
+msgstr "Нишон додани имзои таҳиягар"
+
+msgid "Sidebar"
+msgstr "Сутуни ҷонибӣ"
+
+msgid "Skip to content"
+msgstr "Гузаштан ба мундариҷа"
+
+msgid "Social links"
+msgstr "Шабакаҳои иҷтимоӣ"
+
+msgid "Source"
+msgstr "Манбаъ"
+
+msgid "Special Report"
+msgstr "Гузориши махсус"
+
+msgid "Special Reports"
+msgstr "Гузоришҳои махсус"
+
+msgid "Special report"
+msgstr "Гузориши махсус"
+
+msgid "Start"
+msgstr "Оғоз"
+
+msgid "Status"
+msgstr "Ҳолат"
+
+msgid "Sticky header"
+msgstr "Сарсаҳифаи часпанда"
+
+msgid "Stories"
+msgstr "Матлабҳо"
+
+msgid "Story"
+msgstr "Матлаб"
+
+msgid "Subscribers"
+msgstr "Обунадорон"
+
+msgid "Subscription could not be completed."
+msgstr "Обуна анҷом нашуд."
+
+msgid "System Status"
+msgstr "Ҳолати низом"
+
+msgid "Tags"
+msgstr "Нишонҳо"
+
+msgid "TajiksWorld"
+msgstr "TajiksWorld"
+
+msgid "TajiksWorld Settings"
+msgstr "Танзимоти TajiksWorld"
+
+msgid "TajiksWorld builder"
+msgstr "Созандаи TajiksWorld"
+
+msgid "TajiksWorld details"
+msgstr "Тафсилоти TajiksWorld"
+
+msgid "Text"
+msgstr "Матн"
+
+msgid "The form expired. Please try again."
+msgstr "Мӯҳлати форма гузашт. Дубора кӯшиш кунед."
+
+msgid "The message could not be sent. Try again later."
+msgstr "Паём фиристода нашуд. Баъдтар такрор кунед."
+
+msgid "Theme"
+msgstr "Мавзӯъ"
+
+msgid "Theme Settings"
+msgstr "Танзимоти мавзӯъ"
+
+msgid "Theme stylesheet"
+msgstr "Варақаи услуби мавзӯъ"
+
+msgid "This file is not a TajiksWorld export."
+msgstr "Ин файл содироти TajiksWorld нест."
+
+msgid "This is original sample copy. Replace it with a real story when the newsroom is ready."
+msgstr "Ин матни намунавии аслӣ аст. Вақте таҳририя омода шуд, онро бо хабари воқеӣ иваз кунед."
+
+msgid "This layout is empty."
+msgstr "Ин тарҳ холӣ аст."
+
+msgid "This page is not in the newsroom."
+msgstr "Ин саҳифа дар таҳририя нест."
+
+msgid "This unsubscribe link is not valid."
+msgstr "Ин пайванди бекоркунии обуна эътибор надорад."
+
+msgid "Time format"
+msgstr "Қолаби вақт"
+
+msgid "Timezone"
+msgstr "Минтақаи вақт"
+
+msgid "Title"
+msgstr "Сарлавҳа"
+
+msgid "Toggle color mode"
+msgstr "Иваз кардани реҷаи ранг"
+
+msgid "Too many attempts. Please try again later."
+msgstr "Кӯшишҳо зиёданд. Баъдтар такрор кунед."
+
+msgid "Too many messages. Please wait and try again."
+msgstr "Паёмҳо зиёданд. Интизор шавед ва дубора кӯшиш кунед."
+
+msgid "Top bar"
+msgstr "Навори боло"
+
+msgid "Top bar menu"
+msgstr "Менюи навори боло"
+
+msgid "Top bar text"
+msgstr "Матни навори боло"
+
+msgid "Total views"
+msgstr "Ҳамаи боздидҳо"
+
+msgid "Transparent header on the homepage"
+msgstr "Сарсаҳифаи шаффоф дар саҳифаи асосӣ"
+
+msgid "Trending"
+msgstr "Тренд"
+
+msgid "Trending News"
+msgstr "Хабарҳои тренд"
+
+msgid "Try a search, or continue with the latest stories."
+msgstr "Ҷустуҷӯ кунед ё хабарҳои навтаринро хонед."
+
+msgid "Typography"
+msgstr "Типография"
+
+msgid "Unknown flag."
+msgstr "Байрақи номаълум."
+
+msgid "Updated"
+msgstr "Навсозӣ"
+
+msgid "Uploads writable"
+msgstr "Ҷузвдони боргузорӣ навиштанӣ аст"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video URL"
+msgstr "Нишонии видео"
+
+msgid "Videos"
+msgstr "Видеоҳо"
+
+msgid "Views"
+msgstr "Боздидҳо"
+
+msgid "Visual Builder"
+msgstr "Созандаи визуалӣ"
+
+msgid "WPML"
+msgstr "WPML"
+
+msgid "Website description"
+msgstr "Тавсифи сомона"
+
+msgid "Website title"
+msgstr "Номи сомона"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "Yes"
+msgstr "Ҳа"
+
+msgid "Yoast SEO or Rank Math is active, so TajiksWorld is not printing its own description, Open Graph, or Twitter tags."
+msgstr "Yoast SEO ё Rank Math фаъол аст, бинобар ин TajiksWorld тавсиф, Open Graph ва нишонаҳои Twitter-и худро чоп намекунад."
+
+msgid "You are subscribed. Thank you."
+msgstr "Шумо обуна шудед. Ташаккур."
+
+msgid "You cannot change settings."
+msgstr "Шумо танзимотро тағйир дода наметавонед."
+
+msgid "You cannot edit this story."
+msgstr "Шумо ин матлабро таҳрир карда наметавонед."
+
+msgid "You cannot import sample content."
+msgstr "Шумо мундариҷаи намунаро ворид карда наметавонед."
+
+msgid "You cannot import settings."
+msgstr "Шумо танзимотро ворид карда наметавонед."
+
+msgid "You cannot manage advertisements."
+msgstr "Шумо рекламаро идора карда наметавонед."
+
+msgid "You cannot use the builder."
+msgstr "Шумо созандаро истифода бурда наметавонед."
+
+msgid "You cannot view subscribers."
+msgstr "Шумо обунадоронро дида наметавонед."
+
+msgid "You cannot view this screen."
+msgstr "Шумо ин саҳифаро дида наметавонед."
+
+msgid "You have been unsubscribed."
+msgstr "Шумо аз обуна хориҷ шудед."
+
+msgid "views"
+msgstr "боздид"
+
+msgid "you@example.com"
+msgstr "you@example.com"
+
+msgid "%d min read"
+msgid_plural "%d min read"
+msgstr[0] "%d дақиқа хондан"
+msgstr[1] "%d дақиқа хондан"
+
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d шарҳ"
+msgstr[1] "%d шарҳ"
+
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d натиҷа"
+msgstr[1] "%d натиҷа"
