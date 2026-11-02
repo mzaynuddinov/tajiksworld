@@ -1,0 +1,8 @@
+node_modules/
+vendor/
+.DS_Store
+*.log
+.phpunit.result.cache
+.cache/
+*.zip
+!dist/*.zip

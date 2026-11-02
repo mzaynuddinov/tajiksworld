@@ -1,0 +1,32 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">tw_video</custom-type>
+		<custom-type translate="1">tw_gallery</custom-type>
+		<custom-type translate="1">tw_podcast</custom-type>
+		<custom-type translate="1">tw_interview</custom-type>
+		<custom-type translate="1">tw_report</custom-type>
+	</custom-types>
+	<custom-fields>
+		<custom-field action="translate">_tw_source</custom-field>
+		<custom-field action="translate">_tw_seo_title</custom-field>
+		<custom-field action="translate">_tw_seo_description</custom-field>
+		<custom-field action="translate">_tw_guest</custom-field>
+		<custom-field action="translate">_tw_guest_role</custom-field>
+		<custom-field action="copy">_tw_video_url</custom-field>
+		<custom-field action="copy">_tw_audio_url</custom-field>
+		<custom-field action="copy">_tw_pdf_url</custom-field>
+		<custom-field action="copy">_tw_breaking</custom-field>
+		<custom-field action="copy">_tw_featured</custom-field>
+		<custom-field action="copy">_tw_trending</custom-field>
+		<custom-field action="copy">_tw_editors_choice</custom-field>
+		<custom-field action="copy">_tw_gallery</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="tajiksworld_settings">
+			<key name="copyright"/>
+			<key name="footer_description"/>
+			<key name="topbar_text"/>
+			<key name="developer_credit"/>
+		</key>
+	</admin-texts>
+</wpml-config>
